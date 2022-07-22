@@ -15,9 +15,11 @@ Jest is a testing framework by Facebook, based on Jasmine, so including even mor
 3. Go to package.json file at change script section as follow:
 
     From this
+
     ``"test": "echo \"Error: no test specified\" && exit 1"``
 
     To this
+    
     ``"test": "jest"``
 
 4. Install Jest as dev dependency
