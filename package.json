@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/vapinedo/Javascript-Jest-Testing#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.18.9",
     "jest": "^28.1.3"
   }
 }
