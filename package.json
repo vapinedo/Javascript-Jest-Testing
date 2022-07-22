@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vapinedo/Javascript-Jest-Testing/issues"
   },
-  "homepage": "https://github.com/vapinedo/Javascript-Jest-Testing#readme"
+  "homepage": "https://github.com/vapinedo/Javascript-Jest-Testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
