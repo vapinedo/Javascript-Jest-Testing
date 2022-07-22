@@ -32,11 +32,11 @@ Jest is a testing framework by Facebook, based on Jasmine, so including even mor
 
             1. sum.js
 
-            `
+            ```
                 export default function add(a, b) {
                     return a + b;
                 };
-            `
+            ```
 
             2. sum.spec.js or sum.test.js ( both works )
 
